@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mustafa Akbas
 - 👀 I’m interested in React Native and Machine Learning
 - 🌱 I’m currently learning Typescript, Nodejs
-- 💞️ I’m looking to collaborate on React Native
+- 💞️ I’m looking to collaborate on React Native Apps
 - 📫 Reach me via email mustafa.akbas@apposing.co.uk
