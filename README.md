@@ -2,4 +2,4 @@
 - 👀 I’m interested in React Native, JavaScript and Machine Learning
 - 🌱 I’m currently learning Nodejs, PostgreSql
 - 💞️ I’m looking to collaborate on React Native Apps
-- 📫 Reach me via email mustafa.akbas@apposing.co.uk
+- 📫 Reach me via email mustafa.akbas@outlook.com
