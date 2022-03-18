@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mustafa Akbas
-- 👀 I’m interested in React Native, JavaScript and Machine Learning
-- 🌱 I’m currently learning Nodejs, PostgreSql
-- 💞️ I’m looking to collaborate on React Native Apps
+- 👀 I’m interested in React/React Native, TypeScript, Nodejs, PostgreSql 
+- 🌱 I’m currently learning Machine Learning and Python
+- 💞️ I’m looking to collaborate on Cross Platform Apps
 - 📫 Reach me via email mustafa.akbas@outlook.com
